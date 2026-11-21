@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://ceu21qx31v818"]
+
+[ext_resource type="Script" uid="uid://dudy1v3na786y" path="res://GrabManager.cs" id="1_np1si"]
+
+[node name="GrabManager" type="Node" unique_id=507515210]
+script = ExtResource("1_np1si")
+grabStrength = 100.0
+grabDampening = 15.0
+rotationGrabStrength = 100.0
+rotationGrabDampening = 15.0
